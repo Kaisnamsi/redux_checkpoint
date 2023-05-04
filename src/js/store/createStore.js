@@ -6,7 +6,6 @@ const initialState = {
 };
 
 const reducer = (state = initialState, action) => {
-  // handle actions here
 };
 
-const store = createStore(reducer);
+export const store = createStore(reducer);

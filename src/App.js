@@ -1,6 +1,6 @@
 import './App.css';
-import './components/AddTask';
-import './components/ListTask';
+import AddTask from './components/AddTask'; 
+import ListTask from './components/ListTask';
 const App = () => {
   return (
     <div>
